@@ -1,12 +1,12 @@
-# Simulador de banco
-Repositório destinado a arquivos do projeto intitulado "Simulador de banco" referente à disiplina de Padrões de Projetos.
+# Simulador de Banco
+Documentação referente a criação de um projeto de simulação de cadastro de banco.
 
 ## Padrões
-- DTO (Data Transfer Object)
-- DAO (Data Access Object)
+- Data Transfer Object (DTO)
+- Data Access Object (DAO)
 - Singleton
 
 ## Implementações
-- connect
-- dao
-- dto
+- [connect](bank/src/main/java/com/ifgoiano/bank/connect)
+- [dao](bank/src/main/java/com/ifgoiano/bank/dao)
+- [dto](bank/src/main/java/com/ifgoiano/bank/dto)
